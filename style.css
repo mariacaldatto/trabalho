@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+    align-items: center;
+}
+
+h1{ margin:30px ;
+    color: rgb(181, 17, 214); font-size: 40px;
+}
+
+p{text-align: center;
+    color: black;   font-size-adjust:25px ;
+}
+
+img{ border-style: dashed; 
+    border: 3px solid rgb(243, 243, 154);
+    height: 500px; width: 500px;
+}  
